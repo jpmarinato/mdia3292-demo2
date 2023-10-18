@@ -25,4 +25,7 @@ it's me again - trying out VSCODE
 
 push origin main  
 
+git config --global user.email "jpmresende@gmail.com"     
+git config --global user.name "jpmarinato"
+
 
