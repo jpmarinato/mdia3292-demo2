@@ -7,3 +7,11 @@ git add <filename>
 
 git commit -m "my commit message"  
 
+////  
+
+git add --all       
+
+git commit -m "change commmit message"  
+
+push origin main        
+
