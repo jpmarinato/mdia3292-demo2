@@ -7,7 +7,7 @@ git add <filename>
 
 git commit -m "my commit message"  
 
-////  
+////  Change
 
 git add --all       
 
@@ -25,6 +25,7 @@ it's me again - trying out VSCODE
 
 push origin main  
 
+### To configure VS CODE
 git config --global user.email "jpmresende@gmail.com"     
 git config --global user.name "jpmarinato"
 
