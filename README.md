@@ -16,6 +16,10 @@ git commit -m "change commit message"
 push origin main        
 
 
-Hello World
+Hello World  
+
+git commit -a -m "changed README.md file again: commit -a"  
+
+push origin main  
 
 
