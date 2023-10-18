@@ -11,7 +11,7 @@ git commit -m "my commit message"
 
 git add --all       
 
-git commit -m "change commmit message"  
+git commit -m "change commit message"  
 
 push origin main        
 
